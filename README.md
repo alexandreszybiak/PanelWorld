@@ -1,2 +1,2 @@
 # PanelWorld
-A first-person puzzle game
+A first-person puzzle game about sliding panels
